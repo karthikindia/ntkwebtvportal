@@ -9,7 +9,7 @@
 NTK Web TV Portal is an video-sharing website, It is an open source solution that is freely available to everyone. With NTK Web TV Portal you can create your own video sharing site, NTK Web TV Portal will help you import and encode videos from other sites like Youtube, Vimeo, etc. and you can share directly on your website. In addition, you can use Facebook or Google login to register users on your site. The service was created in march 2017.
 
 <div align="center">
-<a href="http://ntkfm.cobrasoftwares.in/tv/" target="_blank">View Demo</a>
+<a href="http://tv.naamtamilar.org" target="_blank">View Demo</a>
 </div>
 
 
