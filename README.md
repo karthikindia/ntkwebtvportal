@@ -1,4 +1,4 @@
-# This Software must be used for Good, never Evil. It is expressly forbidden to use to build porn sites, violence, racism or anything else that affects human integrity or denigrates the image of anyone.This code is to support for the development of my tamil community naam tamilar political party web tv portal
+# This Software must be used for Good Will and Social responsobility. It is expressly forbidden to use to build porn sites, violence, racism or anything else that affects human integrity or denigrates the image of anyone.This code is to support for the development of my tamil community naam tamilar political party web tv portal
 
 # Now you can read the rest...
 
